@@ -129,8 +129,9 @@
                             },
                             {
                                 "variable":"$FeatureKeyLock",
-                                "default_value":"",
-                                "description":"FeatureKeyLock",
+                                "default_value":"1|2",
+                                "description":"Lock selected feature keys",
+                                "max_chars":"110",
                                 "type":"input"
                             },
                             {"type":"break"},
