@@ -162,7 +162,7 @@ StartSpareFK=3
 ServiceSupervisionFK=3
 VOIPDialPlan={$VOIPDialPlan}
 EmergencyDialPlan={$EmergencyDialPlan}
-
+FeatureKeyLock={$FeatureKeyLock}
 FeatureKeyExt01={$FeatureKeyFunc01}/<sip:{$FeatureKeyExt01}>
 FeatureKeyExt02={$FeatureKeyFunc02}/<sip:{$FeatureKeyExt02}>
 FeatureKeyExt03={$FeatureKeyFunc03}/<sip:{$FeatureKeyExt03}>
