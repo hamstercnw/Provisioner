@@ -65,7 +65,7 @@
                             },
                             {
                                 "variable":"$RingToneMP2",
-                                "default_value":"0",
+                                "default_value":"1",
                                 "description":"Profile Ring Tone 2",
                                 "type":"list",
                                 "data":[
@@ -80,7 +80,7 @@
                             },
                             {
                                 "variable":"$RingToneMP3",
-                                "default_value":"0",
+                                "default_value":"2",
                                 "description":"Profile Ring Tone 3",
                                 "type":"list",
                                 "data":[
@@ -95,7 +95,7 @@
                             },
                             {
                                 "variable":"$RingToneMP4",
-                                "default_value":"0",
+                                "default_value":"3",
                                 "description":"Profile Ring Tone 4",
                                 "type":"list",
                                 "data":[
